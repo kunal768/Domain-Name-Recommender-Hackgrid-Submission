@@ -13,5 +13,5 @@ Tasks to be done :
  <li><em>Applying More filters to Generated List</em></li><br>
 </ul>
 
-<strong> Tentative UI ... so epect a lot more awesome changes !! </strong>
+<strong> Tentative UI ... so expect a lot more awesome changes !! </strong>
 <img src = "https://github.com/kunal768/Hackgrid-Submission-Team-Lanterns/blob/master/HackGrid19/ui.jpeg">
