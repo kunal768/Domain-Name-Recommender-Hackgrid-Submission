@@ -15,3 +15,6 @@ Tasks to be done :
 
 <strong> Tentative UI ... so expect a lot more awesome changes !! </strong>
 <img src = "https://github.com/kunal768/Hackgrid-Submission-Team-Lanterns/blob/master/HackGrid19/ui.jpeg">
+<br>
+<strong> Random Generated Suggestion List Based On User Input </strong>
+<img src = "https://github.com/kunal768/Hackgrid-Submission-Team-Lanterns/blob/master/HackGrid19/output.JPG">
