@@ -12,3 +12,6 @@ Tasks to be done :
  <li><em>Adding More Awesome Features</em></li><br>
  <li><em>Applying More filters to Generated List</em></li><br>
 </ul>
+
+<strong> Tentative UI ... so epect a lot more awesome changes !! </strong>
+<img src = "">
