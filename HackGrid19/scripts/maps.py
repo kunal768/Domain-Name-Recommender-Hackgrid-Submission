@@ -1,5 +1,5 @@
 # Enter your api key here
-api_key = "AIzaSyA8PkLtaTkbHERnjJeU7AHe3_NeuuYhLnE"
+api_key = ""
 
 import googlemaps
 from datetime import datetime
