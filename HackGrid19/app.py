@@ -15,7 +15,7 @@ import scripts.request_image as reqimage
 
 token_lists = []
 company_name = None
-db_uri = 'mongodb://kunal:sahni1@ds163905.mlab.com:63905/domain_data'
+db_uri = "<insert db uri>"
 
 app.config['MONGO_DBNAME'] = 'domain_data'
 app.config['MONGO_URI'] = db_uri
