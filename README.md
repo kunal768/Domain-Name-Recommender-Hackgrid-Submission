@@ -36,4 +36,4 @@ python app.py
 ```
 ### Glimpses
 
-__Made with :heart: in HackGrid2019 , VIT Vellore
+Made with :heart: in HackGrid2019 , VIT Vellore
