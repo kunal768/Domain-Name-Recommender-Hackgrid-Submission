@@ -15,11 +15,12 @@ import scripts.request_image as reqimage
 
 token_lists = []
 company_name = None
+db_uri = 'mongodb://kunal:sahni1@ds163905.mlab.com:63905/domain_data'
 
 app.config['MONGO_DBNAME'] = 'domain_data'
-app.config['MONGO_URI'] = 'mongodb://kunal:sahni1@ds163905.mlab.com:63905/domain_data'
+app.config['MONGO_URI'] = db_uri
 
-client = pymongo.MongoClient("mongodb://kunal:sahni1@ds163905.mlab.com:63905/domain_data")
+client = pymongo.MongoClient(db_uri)
 db = client['domain_data']
 
 mongo  = PyMongo(app)
