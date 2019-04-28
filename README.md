@@ -35,3 +35,5 @@ cd path\to\project
 python app.py
 ```
 ### Glimpses
+
+__Made with :heart: in HackGrid2019 , VIT Vellore
