@@ -11,9 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
   <li>Mongo Lab Account (can work locally if MongoDB installed)</li> 
   <li>Google MAP API </li>
 </ul>
-```
-Give example
-```
+
 ### Installing
 
 Step by step series of examples that tell you how to get it running :<br><br>
