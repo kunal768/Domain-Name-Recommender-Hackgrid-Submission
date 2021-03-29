@@ -97,7 +97,7 @@ PyAudio==0.2.11
 pycparser==2.18
 pycurl==7.43.0.2
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.6.1
 pyparsing==2.2.0
 pyserial==3.4
