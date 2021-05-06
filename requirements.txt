@@ -24,7 +24,7 @@ docopt==0.6.2
 entrypoints==0.2.3
 eventlet==0.23.0
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-PyMongo==0.5.2
 Flask-SocketIO==3.0.0
 Flask-SQLAlchemy==2.3.2
