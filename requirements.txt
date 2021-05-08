@@ -22,7 +22,7 @@ Django==2.0.6
 dlib==19.7.0
 docopt==0.6.2
 entrypoints==0.2.3
-eventlet==0.23.0
+eventlet==0.31.0
 Flask==1.0.2
 Flask-Cors==3.0.7
 Flask-PyMongo==0.5.2
